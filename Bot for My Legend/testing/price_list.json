@@ -1,0 +1,76 @@
+{
+    "Version": "2.5",
+    "EnableAutoCalculation": 0,
+    "EnableAutoDestockAtRestart": 0,
+    "EnableDefaultTraderStock": 1,
+    "TraderCategories": [
+        {
+            "CategoryName": "Грибочки",
+            "Products": [
+                "AgaricusMushroom,1,-1,,-1,400",
+                "AmanitaMushroom,1,-1,,-1,400",
+                "BoletusMushroom,1,-1,,-1,400",
+                "AuriculariaMushroom,1,-1,,-1,400",
+                "LactariusMushroom,1,-1,,-1,400",
+                "PsilocybeMushroom,1,-1,,-1,400",
+                "PleurotusMushroom,1,-1,,-1,400",
+                "MacrolepiotaMushroom,1,-1,,-1,400"
+            ]
+        },
+        {
+            "CategoryName": "свобода ОСНОВНОЕ",
+            "Products": [
+                "Price 1"
+            ]
+        },
+        {
+            "CategoryName": "Свобода Медицина",
+            "Products": [
+                "Price 1"
+            ]
+        },
+        {
+            "CategoryName": "СВОБОДА оружие",
+            "Products": [
+                "Price 1"
+            ]
+        },
+        {
+            "CategoryName": "свобода броня",
+            "Products": [
+                "Price 1"
+            ]
+        },
+        {
+            "CategoryName": "Долг основное",
+            "Products": [
+                "AgaricusMushroom,1,-1,,-1,300",
+                "AmanitaMushroom,1,-1,,-1,300",
+                "BoletusMushroom,1,-1,,-1,300",
+                "AuriculariaMushroom,1,-1,,-1,300",
+                "LactariusMushroom,1,-1,,-1,300",
+                "PsilocybeMushroom,1,-1,,-1,300",
+                "PleurotusMushroom,1,-1,,-1,300",
+                "MacrolepiotaMushroom,1,-1,,-1,300"
+            ]
+        },
+        {
+            "CategoryName": "ДОЛГ медицины",
+            "Products": [
+                "Price 22222"
+            ]
+        },
+        {
+            "CategoryName": "долг оружие",
+            "Products": [
+                "Price 22222"
+            ]
+        },
+        {
+            "CategoryName": "Долг броня",
+            "Products": [
+                "Price 22222"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+01:55:02 - client - WARNING - __init__: 253 - PyNaCl is not installed, voice will NOT be supported
+01:55:02 - main - INFO - <module>: 26 - Bot is initialize
+01:55:02 - main - INFO - <module>: 36 - economyPathDataBase.pkl is open
+01:55:02 - main - INFO - <module>: 343 - Economy bot is runing
+01:55:02 - client - INFO - login: 513 - logging in using static token
+01:55:03 - gateway - INFO - identify: 437 - Shard ID None has sent the IDENTIFY payload.
+01:55:04 - gateway - INFO - received_message: 531 - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-blnr",{"micros":128025,"calls":["id_created",{"micros":834,"calls":[]},"session_lookup_time",{"micros":8748,"calls":[]},"session_lookup_finished",{"micros":18,"calls":[]},"discord-sessions-prd-2-70",{"micros":117984,"calls":["start_session",{"micros":102942,"calls":["discord-api-677679599-lpp6k",{"micros":91307,"calls":["get_user",{"micros":9159},"get_guilds",{"micros":4367},"send_scheduled_deletion_message",{"micros":15},"guild_join_requests",{"micros":8184},"authorized_ip_coro",{"micros":15}]}]},"starting_guild_connect",{"micros":73,"calls":[]},"presence_started",{"micros":2749,"calls":[]},"guilds_started",{"micros":93,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":12060,"calls":[]},"connect_finished",{"micros":12066,"calls":[]},"build_ready",{"micros":20,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":38,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: ae6985437ef79154d164b0fd573baec4).
+01:55:06 - main - INFO - on_ready: 329 - Economy bot is ready to work...
+01:56:04 - client - INFO - run: 709 - Received signal to terminate bot and event loop.
+01:56:04 - client - INFO - run: 712 - Cleaning up tasks.
+01:56:04 - client - INFO - _cancel_tasks: 87 - Cleaning up after 1 tasks.
+01:56:04 - client - INFO - _cancel_tasks: 92 - All tasks finished cancelling.
+01:56:04 - client - INFO - _cleanup_loop: 112 - Closing the event loop.
+01:56:04 - main - INFO - <module>: 346 - Economy bot deactivated...

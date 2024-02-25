@@ -1,0 +1,34 @@
+{
+    "TraderCategories": [
+        {
+            "CategoryName": "Долг основное",
+            "Products": [
+                "Price 11111"
+            ]
+        },
+        {
+            "CategoryName": "Пошел нахуй",
+            "Products": [
+                "Price 11111"
+            ]
+        },
+        {
+            "CategoryName": "ДОЛГ медицины",
+            "Products": [
+                "Price 11111"
+            ]
+        },
+        {
+            "CategoryName": "долг оружие",
+            "Products": [
+                "Price 11111"
+            ]
+        },
+        {
+            "CategoryName": "Долг броня",
+            "Products": [
+                "Price 11111"
+            ]
+        }
+    ]
+}

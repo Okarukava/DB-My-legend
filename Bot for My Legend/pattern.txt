@@ -1,0 +1,27 @@
+@bot.command()
+async def check_path(ctx: discord.ApplicationContext):
+    select = Select (
+        options = [
+            discord.SelectOption(
+                label="Военные"
+            ),
+            discord.SelectOption(
+                label="Свобода"
+            ),
+            discord.SelectOption(
+                label="Долг"
+            ),
+            discord.SelectOption(
+                label="Наемники"
+            ),
+            discord.SelectOption(
+                label="Бандиты"
+            ),
+            discord.SelectOption(
+                label="Монолит"
+            ),
+        ]
+    )
+
+    view = View(select)
+    await ctx.respond(f"Выберете какой группировке вы хотите привязать путь", view=view)

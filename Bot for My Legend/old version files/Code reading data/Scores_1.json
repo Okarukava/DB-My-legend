@@ -1,0 +1,28 @@
+{
+    "scores": [
+        {
+            "flag": "PK_Flag_SVOBODA",
+            "total": 0
+        },
+        {
+            "flag": "PK_Flag_Bandit",
+            "total": 0
+        },
+        {
+            "flag": "PK_Flag_MONOLIT",
+            "total": 10000
+        },
+        {
+            "flag": "PK_Flag_Dolg",
+            "total": 0
+        },
+        {
+            "flag": "PK_Flag_Voeniy",
+            "total": 600000
+        },
+        {
+            "flag": "PK_Flag_Naemnik",
+            "total": 0
+        }
+    ]
+}

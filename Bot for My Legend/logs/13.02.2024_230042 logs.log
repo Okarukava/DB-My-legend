@@ -1,0 +1,24 @@
+23:00:42 - main - INFO - <module>: 28 - Bot is initialize
+23:00:42 - main - INFO - <module>: 38 - economyPathDataBase.pkl is open
+23:00:42 - main - INFO - <module>: 345 - Economy bot is runing
+23:00:42 - client - INFO - login: 513 - logging in using static token
+23:00:43 - gateway - INFO - identify: 437 - Shard ID None has sent the IDENTIFY payload.
+23:00:43 - gateway - INFO - received_message: 531 - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-b-s410",{"micros":243382,"calls":["id_created",{"micros":1787,"calls":[]},"session_lookup_time",{"micros":2823,"calls":[]},"session_lookup_finished",{"micros":20,"calls":[]},"discord-sessions-prd-2-19",{"micros":238238,"calls":["start_session",{"micros":198484,"calls":["discord-api-9f7995858-727gv",{"micros":193557,"calls":["get_user",{"micros":8970},"get_guilds",{"micros":21924},"send_scheduled_deletion_message",{"micros":8},"guild_join_requests",{"micros":45106},"authorized_ip_coro",{"micros":9}]}]},"starting_guild_connect",{"micros":54,"calls":[]},"presence_started",{"micros":21627,"calls":[]},"guilds_started",{"micros":131,"calls":[]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":17897,"calls":[]},"connect_finished",{"micros":17902,"calls":[]},"build_ready",{"micros":18,"calls":[]},"clean_ready",{"micros":0,"calls":[]},"optimize_ready",{"micros":20,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: 9f1fb67894d456ece2fcfe4325cfd4bf).
+23:00:45 - main - INFO - on_ready: 331 - Economy bot is ready to work...
+23:00:47 - main - INFO - add_category: 76 - okarukava#0вызвал комманду -add_category-
+23:00:47 - main - INFO - add_category: 80 - Добавлена категория Монолит с ключом monolit
+23:00:54 - main - INFO - check_category: 137 - okarukava#0вызвал комманду -check_category-
+23:00:54 - main - INFO - check_category: 155 - Доступны следующие категории [{'Долг': [{'key': 'dolg'}, {'path': [{'Долг': 'C:\\Users\\Okarukava\\Desktop\\Bot for My Legend\\testing\\dolg_price.json'}, {'Долг+': 'C:\\Users\\Okarukava\\Desktop\\Bot for My Legend\\testing\\dolg_price+.json'}]}]}, {'Свобода': [{'key': 'svoboda'}, {'path': [{'Свобода': 'C:\\Users\\Okarukava\\Desktop\\Bot for My Legend\\testing\\svoboda_price.json'}]}]}, {'Монолит': [{'key': 'monolit'}, {'path': []}]}]
+23:01:36 - main - INFO - update_economy: 273 - okarukava#0вызвал комманду -update_economy-
+23:01:36 - main - INFO - update_economy: 279 - Назначен путь для замены данных: C:\Users\Okarukava\Desktop\Bot for My Legend\testing\price_list.json
+23:01:36 - main - INFO - update_economy: 287 - Назначен путь с данными для замены: C:\Users\Okarukava\Desktop\Bot for My Legend\testing\dolg_price+.json
+23:01:36 - main - INFO - update_economy: 292 - Открыт файл: C:\Users\Okarukava\Desktop\Bot for My Legend\testing\price_list.json
+23:01:36 - main - INFO - update_economy: 295 - Открыт файл: C:\Users\Okarukava\Desktop\Bot for My Legend\testing\dolg_price+.json
+23:01:36 - main - INFO - update_economy: 315 - Данные по следующему пути заменены и загружены: C:\Users\Okarukava\Desktop\Bot for My Legend\testing\price_list.json
+23:01:36 - main - INFO - update_economy: 316 - Данные для категории Долг были изменены в соответствии с настройками варианта Долг+
+23:04:38 - client - INFO - run: 709 - Received signal to terminate bot and event loop.
+23:04:38 - client - INFO - run: 712 - Cleaning up tasks.
+23:04:38 - client - INFO - _cancel_tasks: 87 - Cleaning up after 1 tasks.
+23:04:38 - client - INFO - _cancel_tasks: 92 - All tasks finished cancelling.
+23:04:38 - client - INFO - _cleanup_loop: 112 - Closing the event loop.
+23:04:38 - main - INFO - <module>: 348 - Economy bot deactivated...

@@ -1,0 +1,28 @@
+{
+    "TraderCategories":[
+        {
+            "CategoryName": "свобода ОСНОВНОЕ",
+            "Products": [
+                "Price 22222"
+            ]
+        },
+        {
+            "CategoryName": "Свобода Медицина",
+            "Products": [
+                "Price 22222"
+            ]
+        },
+        {
+            "CategoryName": "СВОБОДА оружие",
+            "Products": [
+                "Price 22222"
+            ]
+        },
+        {
+            "CategoryName": "свобода броня",
+            "Products": [
+                "Price 22222"
+            ]
+        }
+    ]
+}
