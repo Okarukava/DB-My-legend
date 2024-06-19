@@ -1,7 +1,0 @@
-23:05:35 - main - INFO - <module>: 28 - Bot is initialize
-23:05:35 - main - INFO - <module>: 38 - economyPathDataBase.pkl is open
-23:05:35 - main - INFO - <module>: 345 - Economy bot is runing
-23:05:35 - client - INFO - login: 513 - logging in using static token
-23:05:36 - gateway - INFO - identify: 437 - Shard ID None has sent the IDENTIFY payload.
-23:05:36 - gateway - INFO - received_message: 531 - Shard ID None has connected to Gateway: ["gateway-prd-us-east1-c-lc2h",{"micros":90054,"calls":["id_created",{"micros":970,"calls":[]},"session_lookup_time",{"micros":851,"calls":[]},"session_lookup_finished",{"micros":17,"calls":[]},"discord-sessions-prd-2-8",{"micros":87494,"calls":["start_session",{"micros":60911,"calls":["discord-api-9f7995858-4cdk2",{"micros":55061,"calls":["get_user",{"micros":8643},"get_guilds",{"micros":7687},"send_scheduled_deletion_message",{"micros":6},"guild_join_requests",{"micros":1},"authorized_ip_coro",{"micros":11}]}]},"starting_guild_connect",{"micros":59,"calls":[]},"presence_started",{"micros":352,"calls":[]},"guilds_started",{"micros":96,"calls":[]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":26011,"calls":[]},"connect_finished",{"micros":26017,"calls":[]},"build_ready",{"micros":26,"calls":[]},"clean_ready",{"micros":2,"calls":[]},"optimize_ready",{"micros":28,"calls":[]},"split_ready",{"micros":1,"calls":[]}]}]}] (Session ID: bcf2b92336d469f0d50ded04dd91318d).
-23:05:38 - main - INFO - on_ready: 331 - Economy bot is ready to work...
